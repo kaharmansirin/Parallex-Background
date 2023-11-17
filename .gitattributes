@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+*.css linguist-language=CSS  # Language specification for CSS recognition
+*.css text eol=lf            # Set line ending characters to LF for CSS files
